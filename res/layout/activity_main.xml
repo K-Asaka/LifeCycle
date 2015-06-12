@@ -4,10 +4,11 @@
     android:layout_height="match_parent"
     android:baselineAligned="false" >
     
-    <fragment class="jp.ac.chibafjb.app.lifecycle.MainActivity$CycleFragment"
-        android:id="@+id/fragment_cycle"
-        android:layout_weight="1"
+    <fragment class="jp.ac.chibafjb.app.lifecycle.MainActivity$Fragment1"
+        android:id="@+id/fragment1"
         android:layout_width="0px"
-        android:layout_height="match_parent" />
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        />
 
 </LinearLayout>
