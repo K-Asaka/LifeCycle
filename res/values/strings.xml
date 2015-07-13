@@ -3,5 +3,17 @@
 
     <string name="app_name">ライフサイクル確認</string>
     <string name="action_settings">Settings</string>
+    <string name="tv_viewsample">Viewサンプル</string>
+    <string name="cb_sample1">チェックボックス1</string>
+    <string name="cb_sample2">チェックボックス2</string>
+    <string name="rb_sample1">ラジオボタン1</string>
+    <string name="rb_sample2">ラジオボタン2</string>
+    <string name="bt_sample1">保存</string>
+
+    <string-array name="lv_sample1">
+        <item>あいうえお</item>
+        <item>かきくけこ</item>
+        <item>さしすせそ</item>
+    </string-array>
 
 </resources>
